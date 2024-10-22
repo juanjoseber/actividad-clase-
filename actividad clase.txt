@@ -7,4 +7,4 @@ codigos git
 5 git status // mirar commit o archivos
 6 git add . //selecionar archivos tanto en (.) para todos los archivos o selecionar un nombre de archivo "name"
 7 git commit -m "primer commint" // crear una commit
-8 got log //mirar que parte estoy trabando y cuantas  commint tengo
+8 got log //mirar que parte estoy trabando y cuantas  commint tengo.
