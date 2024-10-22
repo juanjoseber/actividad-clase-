@@ -1,0 +1,10 @@
+codigos git
+
+1 git init // Iniciar GIT
+2 git config --global user.name "usuario" // crear un usuario
+3 git config --global user.email "correo" // crear un correo eletronico
+4 clear //limpiar los comandos
+5 git status // mirar commit o archivos
+6 git add . //selecionar archivos tanto en (.) para todos los archivos o selecionar un nombre de archivo "name"
+7 git commit -m "primer commint" // crear una commit
+8 got log //mirar que parte estoy trabando y cuantas  commint tengo
